@@ -8,8 +8,8 @@ const server = http.createServer(function(req, res){
 
 server.listen(port, function(error) {
     if (error) {
-        console.log('Something Went Wrong', error)
+        console.log('You Messed Up Big Time', error)
     } else {
-        console.log('Server is listening on port ' + port)
+        console.log('Congrats ya did it ' + port)
     }
 })
