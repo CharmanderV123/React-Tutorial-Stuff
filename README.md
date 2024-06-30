@@ -3,4 +3,4 @@ As a Computer Engineering Student we focus mainly on the hardware aspects of com
 
 Tutorial: https://youtu.be/VShtPwEkDD0?si=pqO2YrZjE3U5J64N
 Project: node-js-server
-This tutorial focuses on setting up Node js and running a basic web server
+Description: This tutorial focuses on setting up Node js and running a basic web server
